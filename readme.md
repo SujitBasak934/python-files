@@ -15,6 +15,3 @@ This script (`greeting.py`) prompts the user for their first and last name, then
 
 ### Usage:
 Run the script and enter your first and last name when prompted.
-
-## How to Run:
-1. Clone this repository:
